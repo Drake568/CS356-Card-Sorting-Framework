@@ -1,0 +1,166 @@
+{
+  "quotes": [
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "category": "Inspirational",
+      "subcategory": "Motivation"
+    },
+    {
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "category": "Inspirational",
+      "subcategory": "Motivation"
+    },
+    {
+      "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "category": "Inspirational",
+      "subcategory": "Motivation"
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "category": "Inspirational",
+      "subcategory": "Perseverance"
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "category": "Inspirational",
+      "subcategory": "Perseverance"
+    },
+    {
+      "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer",
+      "category": "Inspirational",
+      "subcategory": "Perseverance"
+    },
+    {
+      "text": "Courage is resistance to fear, mastery of fear - not absence of fear.",
+      "author": "Mark Twain",
+      "category": "Inspirational",
+      "subcategory": "Courage"
+    },
+    {
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "category": "Inspirational",
+      "subcategory": "Courage"
+    },
+    {
+      "text": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "category": "Inspirational",
+      "subcategory": "Courage"
+    },
+    {
+      "text": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates",
+      "category": "Wisdom",
+      "subcategory": "Philosophy"
+    },
+    {
+      "text": "The unexamined life is not worth living.",
+      "author": "Socrates",
+      "category": "Wisdom",
+      "subcategory": "Philosophy"
+    },
+    {
+      "text": "Whereof one cannot speak, thereof one must be silent.",
+      "author": "Ludwig Wittgenstein",
+      "category": "Wisdom",
+      "subcategory": "Philosophy"
+    },
+    {
+      "text": "Knowing yourself is the beginning of all wisdom.",
+      "author": "Aristotle",
+      "category": "Wisdom",
+      "subcategory": "Insight"
+    },
+    {
+      "text": "The only way to predict the future is to create it.",
+      "author": "Abraham Lincoln",
+      "category": "Wisdom",
+      "subcategory": "Insight"
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "category": "Wisdom",
+      "subcategory": "Insight"
+    },
+    {
+      "text": "The only source of knowledge is experience.",
+      "author": "Albert Einstein",
+      "category": "Wisdom",
+      "subcategory": "Experience"
+    },
+    {
+      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln",
+      "category": "Wisdom",
+      "subcategory": "Experience"
+    },
+    {
+      "text": "Experience is the teacher of all things.",
+      "author": "Julius Caesar",
+      "category": "Wisdom",
+      "subcategory": "Experience"
+    },
+    {
+      "text": "I can resist everything except temptation.",
+      "author": "Oscar Wilde",
+      "category": "Humor",
+      "subcategory": "Funny"
+    },
+    {
+      "text": "I'm not lazy, I'm energy efficient.",
+      "author": "Unknown",
+      "category": "Humor",
+      "subcategory": "Funny"
+    },
+    {
+      "text": "I'm on a whiskey diet. I've lost three days already.",
+      "author": "Tommy Cooper",
+      "category": "Humor",
+      "subcategory": "Funny"
+    },
+    {
+      "text": "Sarcasm: the ability to insult idiots without them realizing it.",
+      "author": "Unknown",
+      "category": "Humor",
+      "subcategory": "Sarcasm"
+    },
+    {
+      "text": "If at first, you don't succeed, then skydiving definitely isn't for you.",
+      "author": "Steven Wright",
+      "category": "Humor",
+      "subcategory": "Sarcasm"
+    },
+    {
+      "text": "I'm writing a book. I've got the page numbers done.",
+      "author": "Steven Wright",
+      "category": "Humor",
+      "subcategory": "Sarcasm"
+    },
+    {
+      "text": "I am so clever that sometimes I don't understand a single word of what I am saying.",
+      "author": "Oscar Wilde",
+      "category": "Humor",
+      "subcategory": "Wit"
+    },
+    {
+      "text": "I haven't spoken to my wife in years. I didn't want to interrupt her.",
+      "author": "Rodney Dangerfield",
+      "category": "Humor",
+      "subcategory": "Wit"
+    },
+    {
+      "text": "I told my wife the truth. I told her I was seeing a psychiatrist. Then she told me the truth: that she was seeing a psychiatrist, two plumbers, and a bartender.",
+      "author": "Rodney Dangerfield",
+      "category": "Humor",
+      "subcategory": "Wit"
+    }
+  ]
+}
